@@ -1,1 +1,9 @@
-/* add home page styles here */
+*  {
+    margin: 30;
+    padding: 30;
+    box-sizing: border-box;
+}
+
+#canvas {
+    outline: 2px solid black
+}
